@@ -1,5 +1,5 @@
-Hi, I’m Joey �
-�
+Hi, I’m Joey 👋
+
 I am passionate about technology and innovation since childhood, with a lifelong enthusiasm for video games and problem-solving.
 
 After several years as a physiotherapist helping patients recover through data-driven methods, I decided to redirect my career toward programming.

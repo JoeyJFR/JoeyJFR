@@ -7,3 +7,22 @@ After several years as a physiotherapist helping patients recover through data-d
 I am currently studying at 42 Lyon since November 2024, developing expertise in C/C++, algorithms, and system programming, with a strong interest in data analysis, AI, and game development.
 
 I am motivated to create technology that improves people’s lives and bridges healthcare and intelligent systems.
+
+Projects completed:
+- Born2beroot
+- CPP00-07
+- cub3d
+- fract-ol
+- ft_printf
+- get_next_line
+- Libft
+- minishell
+- NetPractice
+- Philosophers
+- pipex
+- push_swap
+- webserv
+
+Projects currently doing:
+- CPP08
+- Inception

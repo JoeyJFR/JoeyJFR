@@ -51,10 +51,4 @@ I’m currently studying at **42 Lyon** (since November 2024), developing expert
 
 ---
 
-### 📊 GitHub Stats
-![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeyJFR&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyJFR&layout=compact&theme=tokyonight)
-
----
-
 ⭐ *Motivated to build technology that connects human care and intelligent systems.*

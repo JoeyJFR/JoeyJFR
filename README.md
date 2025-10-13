@@ -52,8 +52,8 @@ I’m currently studying at **42 Lyon** (since November 2024), developing expert
 ---
 
 ### 📊 GitHub Stats
-![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeyJFR&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyJFR&layout=compact&theme=tokyonight)
 
 ---
 

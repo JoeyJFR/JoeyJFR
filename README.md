@@ -15,22 +15,22 @@ I’m currently studying at **42 Lyon** (since November 2024), developing expert
 
 ---
 
-### 🚀 Projects Completed
+### 🚀 Projects Completed (chronological)
 | Project | Description |
 |----------|--------------|
-| **Born2beroot** | Virtual machine setup and system administration basics |
 | **Libft** | Custom C library reimplementing standard functions |
-| **get_next_line** | File reading with dynamic buffer management |
+| **Born2beroot** | Virtual machine setup and system administration basics |
 | **ft_printf** | Recreation of printf with variable arguments |
-| **push_swap** | Sorting algorithm optimization under constraints |
-| **pipex** | Process piping and redirection |
-| **Philosophers** | Multithreading and synchronization using mutexes |
-| **minishell** | Simplified Unix shell supporting pipes, redirects, and signals |
-| **cub3d** | 3D raycasting engine inspired by Wolfenstein 3D |
+| **get_next_line** | File reading with dynamic buffer management |
+| **pushswap** | Sorting algorithm optimization under constraints |
 | **fract-ol** | Fractal visualizer using complex numbers and MinilibX |
+| **pipex** | Process piping and redirection |
+| **minishell** | Simplified Unix shell supporting pipes, redirects, and signals |
+| **Philosophers** | Multithreading and synchronization using mutexes |
 | **NetPractice** | IP addressing and networking fundamentals |
+| **cub3d** | 3D raycasting engine inspired by Wolfenstein 3D |
 | **webserv** | Non-blocking HTTP server in C++98 inspired by Nginx |
-| **CPP00–09** | Full C++ Modules completed — mastering OOP, inheritance, polymorphism, templates, STL, and type casting |
+| **CPP00–09 (completed)** | Full C++ Modules — OOP, inheritance, polymorphism, templates, STL, casting, RTTI, containers & algorithms |
 
 ---
 

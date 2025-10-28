@@ -2,16 +2,16 @@
 
 I’ve been passionate about technology and innovation since childhood — always fascinated by how games and systems work behind the scenes.  
 
-After several years as a **physiotherapist**, where I helped patients recover using **data-driven approaches**, I decided to redirect my career toward **programming** to create technology that improves people’s lives.  
+After several years working as a **physiotherapist**, where I helped patients recover using **data-driven methods**, I decided to redirect my career toward **programming** to create technology that improves people’s lives.  
 
 I’m currently studying at **42 Lyon** (since November 2024), developing expertise in **C/C++**, **algorithms**, and **system programming**, with growing interests in **data analysis**, **AI**, and **game development**.  
 
 ---
 
 ### 🧠 My Focus
-- Writing efficient and reliable low-level code in C/C++  
-- Building robust backend systems (HTTP servers, shell, processes)  
-- Exploring how technology can bridge **healthcare and intelligent systems**
+- Writing efficient and reliable low-level code in C and C++  
+- Building robust backend and system-level applications (HTTP servers, shells, containers)  
+- Exploring how technology can connect **healthcare** and **intelligent systems**
 
 ---
 
@@ -30,13 +30,12 @@ I’m currently studying at **42 Lyon** (since November 2024), developing expert
 | **fract-ol** | Fractal visualizer using complex numbers and MinilibX |
 | **NetPractice** | IP addressing and networking fundamentals |
 | **webserv** | Non-blocking HTTP server in C++98 inspired by Nginx |
-| **CPP00–07** | C++ Modules: OOP, inheritance, polymorphism, templates, and STL |
+| **CPP00–09** | Full C++ Modules completed — mastering OOP, inheritance, polymorphism, templates, STL, and type casting |
 
 ---
 
 ### 🔧 Currently Working On
-- **CPP08** – STL containers and algorithms  
-- **Inception** – Docker-based system architecture project  
+- **Inception** – Docker-based system architecture project (virtualized multi-service environment)  
 
 ---
 
@@ -51,4 +50,4 @@ I’m currently studying at **42 Lyon** (since November 2024), developing expert
 
 ---
 
-⭐ *Motivated to build technology that connects human care and intelligent systems.*
+⭐ *Driven to build technology that bridges human care and intelligent systems.*

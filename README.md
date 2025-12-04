@@ -30,12 +30,13 @@ I’m currently studying at **42 Lyon** (since November 2024), developing expert
 | **NetPractice** | IP addressing and networking fundamentals |
 | **cub3d** | 3D raycasting engine inspired by Wolfenstein 3D |
 | **webserv** | Non-blocking HTTP server in C++98 inspired by Nginx |
-| **CPP00–09 (completed)** | Full C++ Modules — OOP, inheritance, polymorphism, templates, STL, casting, RTTI, containers & algorithms |
+| **CPP00–09** | Full C++ Modules — OOP, inheritance, polymorphism, templates, STL, casting, RTTI, containers & algorithms |
+| **Inception** | Docker-based system architecture project (virtualized multi-service environment) |
 
 ---
 
 ### 🔧 Currently Working On
-- **Inception** – Docker-based system architecture project (virtualized multi-service environment)  
+- **ft_transcendence** – Multiplayer Pong game with backend, frontend, user auth, and Docker deployment  
 
 ---
 

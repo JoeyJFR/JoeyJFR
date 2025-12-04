@@ -27,10 +27,10 @@ I’m currently studying at **42 Lyon** (since November 2024), developing expert
 | **pipex** | Process piping and redirection |
 | **minishell** | Simplified Unix shell supporting pipes, redirects, and signals |
 | **Philosophers** | Multithreading and synchronization using mutexes |
-| **NetPractice** | IP addressing and networking fundamentals |
 | **cub3d** | 3D raycasting engine inspired by Wolfenstein 3D |
-| **webserv** | Non-blocking HTTP server in C++98 inspired by Nginx |
+| **NetPractice** | IP addressing and networking fundamentals |
 | **CPP00–09** | Full C++ Modules — OOP, inheritance, polymorphism, templates, STL, casting, RTTI, containers & algorithms |
+| **webserv** | Non-blocking HTTP server in C++98 inspired by Nginx |
 | **Inception** | Docker-based system architecture project (virtualized multi-service environment) |
 
 ---

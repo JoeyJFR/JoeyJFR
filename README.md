@@ -15,7 +15,11 @@ I’m currently studying at **42 Lyon** (since November 2024), developing expert
 
 ---
 
-### 🚀 Projects Completed (chronological)
+<details>
+<summary>🚀 <strong>Projects Completed (click to expand)</strong></summary>
+
+<br>
+
 | Project | Description |
 |----------|--------------|
 | **Libft** | Custom C library reimplementing standard functions |
@@ -32,6 +36,8 @@ I’m currently studying at **42 Lyon** (since November 2024), developing expert
 | **CPP00–09** | Full C++ Modules — OOP, inheritance, polymorphism, templates, STL, casting, RTTI, containers & algorithms |
 | **webserv** | Non-blocking HTTP server in C++98 inspired by Nginx |
 | **Inception** | Docker-based system architecture project (virtualized multi-service environment) |
+
+</details>
 
 ---
 
